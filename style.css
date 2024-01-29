@@ -245,10 +245,10 @@ div>iframe{
 }
  .opa{
     background-image: url(cover.jpg);
-    width: 1050px;
+    width: 720px;
     height: 600px;
     border: 0.00000000001px solid black;
-    margin-left: 60px;
+   
     border-radius: 30px;
  }
  .uuu{
