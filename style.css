@@ -3,7 +3,7 @@ nav>ul>li,
 #jh {
     background-color: rgb(0, 37, 148);
     display: inline-block;
-    color: white;
+    color: rgb(255, 255, 255);
     border: solid black 0.8px;
     border-radius: 20px;
     padding: 10px;
@@ -69,7 +69,7 @@ header {
 
 main {
     background-image: url(bg.jpg);
-    color: white;
+    color: rgb(0, 0, 0);
 }
 
 
@@ -124,7 +124,7 @@ details {
 div>a,
 summary {
     color: black;
-    border: 0.000000000001px solid rgb(255, 255, 255);
+    border: 0.000000000001px solid rgb(0, 0, 0);
     border-radius: 40px;
     padding: 4px;
     margin: 9px;
@@ -173,7 +173,7 @@ img :hover {
     width: 225px;
     height: 600px;
     border: 0.000000001px solid;
-    background-color: azure;
+    background-color: rgb(255, 255, 255);
     background-image: linear-gradient(rgb(151, 180, 157), rgb(21, 19, 32));
 }
 
